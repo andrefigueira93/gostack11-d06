@@ -34,7 +34,9 @@ Endpoints
 - [x] **List categories:** ``[GET] - /categories``
 
 - [x] **Create categories:** ``[POST] - /categories``
+
 - [ ] **Update categories:** ``[PUT] - /categories/:id``
+
 - [ ] **Delete categories:** ``[DELETE] - /categories/:id``
 
 Enjoy!
